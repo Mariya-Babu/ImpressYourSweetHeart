@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mariya-Babu/LoveProposal/static/css/main.f1d13ce3.css",
+    "main.js": "/Mariya-Babu/LoveProposal/static/js/main.84e10aed.js",
+    "static/media/Img3.jpg": "/Mariya-Babu/LoveProposal/static/media/Img3.cfd4219f291eeee2f6ab.jpg",
+    "static/media/Img1.jpg": "/Mariya-Babu/LoveProposal/static/media/Img1.45082e8d771e9a110f38.jpg",
+    "index.html": "/Mariya-Babu/LoveProposal/index.html",
+    "main.f1d13ce3.css.map": "/Mariya-Babu/LoveProposal/static/css/main.f1d13ce3.css.map",
+    "main.84e10aed.js.map": "/Mariya-Babu/LoveProposal/static/js/main.84e10aed.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f1d13ce3.css",
+    "static/js/main.84e10aed.js"
+  ]
+}
